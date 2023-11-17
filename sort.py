@@ -1,3 +1,5 @@
+# Code adapted from https://stackoverflow.com/questions/64700550/z3-create-two-intvectors-with-same-elements-but-different-order
+
 from z3 import *
 
 s = Solver()
